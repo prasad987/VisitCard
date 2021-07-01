@@ -1,0 +1,51 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.Backimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('img/bggif.gif');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+.Profile{
+    width: 400px;
+    background-color: rgba(104, 113, 243, 0.363);
+    padding: 30px 0;
+    border-radius: 10%;
+}
+
+.profiletext{
+    margin-bottom: 20px;
+}
+
+.profiletext h2{
+    font-size: 2em;
+    font-weight: 500;
+    margin-bottom: 10px; 
+}
+
+.profiletext h3{
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-bottom: 10px; 
+}
+
+img{
+    height: 220px;
+    width: 220px;
+    border-radius: 70%;
+}
+
+i{
+    color: seashell;
+}
